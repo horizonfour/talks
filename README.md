@@ -17,3 +17,13 @@
 
 #### Source code
 [Github](https://github.com/anabastos/gatil-ascii-api)
+
+### Reactive programming: Uma forma diferente de projetar e construir
+
+#### Talkers
+![avatar wendel](https://avatars2.githubusercontent.com/u/12970118?v=4&u=0748d321126f965787c6b41ef23bf254d810208d&s=100) | 
+-------------------------------------------------------------------------- | 
+  [Wendel Nascimento](https://github.com/wendelnascimento)                 |  
+
+#### Slides
+[Slideshare](https://www.slideshare.net/WendelNascimento2/reactive-thinking)
