@@ -36,8 +36,9 @@
 
 #### Talker
 ![avatar jc](https://avatars2.githubusercontent.com/u/15002052?v=4&u=b5212fba292acceda9dafd7016f9768a888666e0&s=100) |
--------------------------------------------------------- 
-|  [JC](https://github.com/julioc98) |  
+-------------------------------------------------------------------------- |
+  [JC](https://github.com/julioc98)                 | 
+|
 
 #### Slides
 [Google docs](https://docs.google.com/presentation/d/1dsbh4PTQ61tj44CvAhOb1jtPMJ1eS7w9q1I6plePbAg/edit?usp=sharing)
