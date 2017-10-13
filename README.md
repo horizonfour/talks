@@ -46,3 +46,31 @@
 
 #### Source code Demo
 [Github](https://github.com/julioc98/talk-firebase)
+
+
+---
+
+### Iniciando os trabalho com CSS Grid
+
+#### Talker
+![avatar cesar](https://avatars2.githubusercontent.com/u/23237435?s=460&v=4) |
+-------------------------------------------------------------------------- |
+  [Cesar de Oliveira](https://github.com/cesarolvr)                 | 
+
+
+#### Slides
+[Google docs](https://docs.google.com/presentation/d/15CGemcW5hod5m-GK6He_MudQPyZdMUEXffuFX_xbf1M/edit?usp=sharing)
+
+
+---
+
+### CSS: Construindo seletores eficientes
+
+#### Talker
+![avatar wendel](https://avatars2.githubusercontent.com/u/12970118?v=4&u=0748d321126f965787c6b41ef23bf254d810208d&s=100) |
+-------------------------------------------------------------------------- |
+  [Wendel Nascimento](https://github.com/wendelnascimento)                 |  
+
+
+#### Codigo
+[Codepen](naopassou.com.br)
