@@ -53,7 +53,7 @@
 ### Iniciando os trabalho com CSS Grid
 
 #### Talker
-![avatar cesar](https://avatars2.githubusercontent.com/u/23237435?s=460&v=4) |
+<img alt="avatar cesar" src="https://avatars0.githubusercontent.com/u/23237435?s=40&v=4" width="100"> |
 -------------------------------------------------------------------------- |
   [Cesar de Oliveira](https://github.com/cesarolvr)                 | 
 
@@ -70,7 +70,3 @@
 ![avatar wendel](https://avatars2.githubusercontent.com/u/12970118?v=4&u=0748d321126f965787c6b41ef23bf254d810208d&s=100) |
 -------------------------------------------------------------------------- |
   [Wendel Nascimento](https://github.com/wendelnascimento)                 |  
-
-
-#### Codigo
-[Codepen](naopassou.com.br)
