@@ -13,6 +13,7 @@
 - [**JC** - BAAS com Firebase Realtime Database](#baas-com-firebase-realtime-database)
 - [**Cesar de Oliveira** - CSS Construindo seletores eficientes](#css-construindo-seletores-eficientes)
 - [**Wendel Nascimento** - Iniciando os trabalhos com CSS Grid](#iniciando-os-trabalhos-com-css-grid)
+- [**Igor França** - Be Hapi with JWT Auth](be-hapi-with-jwt-auth)
 
 
 ---
@@ -91,3 +92,18 @@
 #### Slides
 [Google docs](https://docs.google.com/presentation/d/15CGemcW5hod5m-GK6He_MudQPyZdMUEXffuFX_xbf1M/edit?usp=sharing)
 
+---
+
+### Be Hapi with JWT Auth
+*Vou falar um pouco do Hapi.js, sobre como funciona mais ou menos o framework e o que eu vi de vantagens para pensar em um projeto com ele.*
+
+
+#### Talker
+<img alt="avatar Horaddrim" src="https://avatars1.githubusercontent.com/u/25853444?s=400&v=4" width="100"> |
+-------------------------------------------------------------------------- |
+  [Igor França](https://github.com/horaddrim)                 | 
+  
+#### Slides
+_A colocar_
+#### Source Code
+_A colocar_
