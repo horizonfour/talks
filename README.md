@@ -104,6 +104,6 @@
   [Igor França](https://github.com/horaddrim)                 | 
   
 #### Slides
-_A colocar_
+http://slides.com/igorfranca/be-hapi-com-jwt-auth#/
 #### Source Code
-_A colocar_
+https://github.com/Horaddrim/talk-hapi-jwt
